@@ -1,16 +1,14 @@
 Hi 👋 My name is Atishay Jain
 =============================
 
-Aspiring Data Scientist
 -----------------------
 
-Pre-final year student pursuing Integrated M. Tech. from Vellore Institue of Technology - Bhopal. I am a Data Science enthusiast who is well informed on the latest Data Science advancements and ready to thrive in demanding Digital Intelligence. Looking forward for more opportunities for industrial experience.
+Grad Student at Illinois Institute of Technology. I am an AI enthusiast who is well informed on the latest AI advancements and ready to thrive in demanding Digital Intelligence. Looking forward for more opportunities for industrial experience.
 
 * 🌍  I'm based in Bhopal, Madhya Pradesh ❤
 * ✉️  You can contact me at [jain.atishay2411@gmail.com](mailto:jain.atishay2411@gmail.com)
 * 🧠  I'm learning Natural Language Processing and DSA with C++
 * 🤝  I'm open to collaborating on any Data Science Project
-* ⚡  Fun fact: I love music and sports too😜
 
 <a href="https://www.github.com/atishay2411" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/atishay2411?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
